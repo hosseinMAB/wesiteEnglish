@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "أحمد",
+    "lastname": "عباس",
+    "age": 25,
+    "gender": "ذكر",
+    "education": "بكالوريوس في الأدب الإنجليزي",
+    "image": "src/assets/images_backGROUND/i1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "أحمد",
+    "lastname": "عباس",
+    "age": 25,
+    "gender": "ذكر",
+    "education": "بكالوريوس في الأدب الإنجليزي",
+    "image": "src/assets/images_backGROUND/i1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "أحمد",
+    "lastname": "عباس",
+    "age": 25,
+    "gender": "ذكر",
+    "education": "بكالوريوس في الأدب الإنجليزي",
+    "image": "src/assets/images_backGROUND/i1.jpg"
+  }
+]

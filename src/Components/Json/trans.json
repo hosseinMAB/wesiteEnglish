@@ -1,0 +1,146 @@
+{
+  "en": {
+    "title": "English Language Institute",
+    "description": "This website is dedicated to an English language institute that offers private lessons, group classes, various exams, and certified diplomas to enhance students' skills and open new opportunities in the language world.",
+    "logIn": "Log IN",
+    "signUp": "Sign UP",
+    "textIN_UO": "Register with us, to get what you deserve",
+    "news": "advertisements",
+    "courses": [
+      {
+        "name": "English Foundation Course",
+        "information": "A basic course to build a strong foundation in English grammar and vocabulary.",
+        "duration": "1-2 Months"
+      },
+      {
+        "name": "Basic Conversation Course",
+        "information": "Focuses on improving spoken English skills for everyday situations.",
+        "duration": "1-2 Months"
+      },
+      {
+        "name": "Reading and Writing for Beginners",
+        "information": "Introduces fundamental reading and writing skills for beginners.",
+        "duration": "1 Month"
+      },
+      {
+        "name": "Academic Writing Course",
+        "information": "Develops skills in writing essays, research papers, and other academic texts.",
+        "duration": "2 Months"
+      },
+      {
+        "name": "IELTS/TOEFL Preparation Course",
+        "information": "Prepares students for the IELTS or TOEFL exams with specific strategies and practice.",
+        "duration": "2 Months"
+      },
+      {
+        "name": "Business English Course",
+        "information": "Teaches English skills for professional communication in a business environment.",
+        "duration": "1-2 Months"
+      },
+      {
+        "name": "English for Tourism",
+        "information": "Provides English language skills needed for the tourism and hospitality industry.",
+        "duration": "1 Month"
+      },
+      {
+        "name": "English for Medical Purposes",
+        "information": "Focuses on medical terminology and communication skills for healthcare professionals.",
+        "duration": "2 Months"
+      },
+      {
+        "name": "English for Engineering",
+        "information": "Covers technical English and communication skills for engineers.",
+        "duration": "1-2 Months"
+      },
+      {
+        "name": "English for Legal Purposes",
+        "information": "Introduces legal terminology and communication skills for legal professionals.",
+        "duration": "2 Months"
+      },
+      {
+        "name": "Online Courses",
+        "information": "Flexible online courses for learning English at your own pace.",
+        "duration": "1-2 Months"
+      },
+      {
+        "name": "Private Lessons",
+        "information": "Personalized one-on-one lessons tailored to your specific needs and goals.",
+        "duration": "1-2 Months"
+      }
+    ],
+    "titleBooks": "The English course for you :",
+    "Steps": "You need to sign in first to take the placement test. After taking the test, find the course that suits you"
+  },
+  "ar": {
+    "title": "معهد اللغة الإنجليزية",
+    "description": "هذا الموقع مخصص لمعهد اللغة الإنجليزية الذي يقدم دروسًا خاصة، ودروسًا جماعية، وامتحانات متنوعة، وشهادات معتمدة لتعزيز مهارات الطلاب وفتح آفاق جديدة في عالم اللغة.",
+    "logIn": "تسجيل الدخول",
+    "signUp": "انشاء حساب",
+    "textIN_UO": "سجل معنا لتحصل على ما تستحقه",
+    "news": "اعلانات",
+    "courses": [
+      {
+        "name": "دورة تأسيسية في اللغة الإنجليزية",
+        "information": "دورة أساسية لبناء قاعدة قوية في قواعد اللغة الإنجليزية والمفردات.",
+        "duration": "شهر - شهرين"
+      },
+      {
+        "name": "دورة المحادثة الأساسية",
+        "information": "تركز على تحسين مهارات التحدث باللغة الإنجليزية للمواقف اليومية.",
+        "duration": "شهر - شهرين"
+      },
+      {
+        "name": "دورة القراءة والكتابة للمبتدئين",
+        "information": "تقدم مهارات القراءة والكتابة الأساسية للمبتدئين.",
+        "duration": "شهر"
+      },
+      {
+        "name": "دورة الكتابة الأكاديمية",
+        "information": "تطوير مهارات كتابة المقالات والأوراق البحثية والنصوص الأكاديمية الأخرى.",
+        "duration": "شهران"
+      },
+      {
+        "name": "دورة التحضير لامتحان IELTS/TOEFL",
+        "information": "تُعد الطلاب لامتحانات IELTS أو TOEFL باستراتيجيات محددة وتدريب عملي.",
+        "duration": "شهران"
+      },
+      {
+        "name": "دورة اللغة الإنجليزية للأعمال",
+        "information": "تعليم مهارات اللغة الإنجليزية للتواصل المهني في بيئة الأعمال.",
+        "duration": "شهر - شهرين"
+      },
+      {
+        "name": "دورة اللغة الإنجليزية للسياحة",
+        "information": "توفر مهارات اللغة الإنجليزية اللازمة لصناعة السياحة والضيافة.",
+        "duration": "شهر"
+      },
+      {
+        "name": "دورة اللغة الإنجليزية الطبية",
+        "information": "تركز على المصطلحات الطبية ومهارات الاتصال للعاملين في مجال الرعاية الصحية.",
+        "duration": "شهران"
+      },
+      {
+        "name": "دورة اللغة الإنجليزية الهندسية",
+        "information": "تغطي اللغة الإنجليزية التقنية ومهارات الاتصال للمهندسين.",
+        "duration": "شهر - شهرين"
+      },
+      {
+        "name": "دورة اللغة الإنجليزية القانونية",
+        "information": "تقدم المصطلحات القانونية ومهارات الاتصال للعاملين في المجال القانوني.",
+        "duration": "شهران"
+      },
+      {
+        "name": "دورات عبر الإنترنت",
+        "information": "دورات مرنة عبر الإنترنت لتعلم اللغة الإنجليزية بالسرعة التي تناسبك.",
+        "duration": "شهر - شهرين"
+      },
+      {
+        "name": "دورات فردية",
+        "information": "دروس شخصية فردية مصممة خصيصًا لتلبية احتياجاتك وأهدافك المحددة.",
+        "duration": "شهر - شهرين"
+      }
+    ],
+    "titleBooks": " دورات اللغة الانكليزية المتاحة لدينا:",
+    "Steps": " عليك تسجيل الدخول اولا من ثم الحصول على اختبار تحديد مستوى و بعد قيامك بتقديم الاختبار اختر الدورة التي تناسبك "
+  }
+}

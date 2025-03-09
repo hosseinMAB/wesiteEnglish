@@ -1,0 +1,118 @@
+.features-container {
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  margin-top: 30px;
+  width: 700px;
+  height: 280px;
+  margin: auto;
+}
+
+.features-container h2 {
+  font-size: 24px;
+  color: #551a8b;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.feature-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+}
+
+.feature-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  transition: transform 0.3s ease;
+}
+
+.feature-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.feature-item i {
+  font-size: 22px;
+  color: #551a8b;
+  margin-bottom: 10px;
+}
+
+.feature-item span {
+  font-size: 15px;
+  font-weight: bold;
+  color: #330260;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.feature-item p {
+  font-size: 12px;
+  color: #666;
+  text-align: center;
+}
+
+/*responsev */
+@media (max-width: 400px) {
+  .features-container {
+    width: 280px;
+  }
+
+  .features-container h2 {
+    font-size: 13px;
+  }
+
+  .feature-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    overflow-y: auto;
+    height: 250px;
+  }
+
+  .feature-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+  }
+
+  .feature-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .feature-item i {
+    font-size: 20px;
+    color: #551a8b;
+    margin-bottom: 10px;
+  }
+
+  .feature-item span {
+    font-size: 10px;
+    font-weight: bold;
+    color: #330260;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+
+  .feature-item p {
+    font-size: 9px;
+    color: #666;
+    text-align: center;
+  }
+}

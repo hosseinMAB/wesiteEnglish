@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "element": "Layout",
+      "children": [
+        {
+          "path": "/",
+          "element": "Content"
+        }
+      ]
+    }
+  ]
+}
